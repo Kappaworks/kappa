@@ -1,5 +1,5 @@
 {
-  "name": "kappa",
+  "name": "@kappaworks/kappa",
   "version": "1.0.0",
   "description": "Get a KAPPA quote",
   "main": "index.js",
